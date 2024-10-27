@@ -1,6 +1,6 @@
-React + Vite<img width="960" alt="Annotation 2024-10-27 084912" src="https://github.com/user-attachments/assets/9f96caaa-8b9e-45b2-9a39-f48263d5cfac">
+React + Vite<img width="960" alt="Annotation 2024-10-27 084820" src="https://github.com/user-attachments/assets/fa84d250-c8de-4154-ad76-91ef3cb1f021">
 <img width="956" alt="Annotation 2024-10-27 084848" src="https://github.com/user-attachments/assets/f476f4de-f001-499b-bc39-09ff20389f95">
-<img width="960" alt="Annotation 2024-10-27 084820" src="https://github.com/user-attachments/assets/fa84d250-c8de-4154-ad76-91ef3cb1f021">
+<img width="960" alt="Annotation 2024-10-27 084912" src="https://github.com/user-attachments/assets/9f96caaa-8b9e-45b2-9a39-f48263d5cfac">
 summary
 -------
 1. **React Basics**: You started with setting up a React app and displayed a simple "Hello World" message.
